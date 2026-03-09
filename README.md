@@ -1,0 +1,1 @@
+# fingec-assets
